@@ -1,0 +1,528 @@
+
+#wb_header { background: transparent none repeat scroll left top; height: 100px; }
+#wb_header { height: 100px; width: 600px; }
+#wb_main { background:transparent none repeat scroll left top; height: 5470px; }
+#wb_main { height: 5470px; width: 600px;}
+#wb_footer { background: #a6eb8a none repeat-x scroll left top; height: 100px; width:600px;}
+#wb_footer { height: 100px; }
+body { background: #b1e094 none no-repeat fixed left top; margin: auto;}
+.wb_sbg { background: transparent none repeat-x scroll center bottom; }
+body, .wb_sbg { min-width: 992px; min-height: 5121px; }
+.root {width: 600px; height: 5121px; overflow: visible;}
+#wb_element_instance0 { left: 680px; top: 110px; min-width: 308px; width: 308px; min-height: 200px; height: 200px; display: block; z-index: 355; }
+#wb_element_instance0 ul { background: transparent none repeat scroll left top; border: none; }
+#wb_element_instance0, #wb_element_instance0 ul { text-align: left; }
+#wb_element_instance0 ul ul { background: #2e2e2e none repeat scroll left top; }
+#wb_element_instance0 li { margin: 10px 10px 10px 10px; }
+#wb_element_instance0 li a { border: none; padding: 2px 2px 2px 2px; font: normal normal 22px Arial,sans-serif; color: #2c2c2c; text-decoration: none; background: transparent none repeat scroll left top; }
+#wb_element_instance0 li:hover > a, #wb_element_instance0 li:focus > a { border: none; font: normal normal 22px Arial,sans-serif; color: #43852d; text-decoration: none; background: transparent none repeat scroll left top; }
+#wb_element_instance0 li.active > a { border: none; font: normal normal 22px Arial,sans-serif; color: #43852d; text-decoration: none; background: transparent none repeat scroll left top; }
+#wb_element_instance1 { left: 0px; top: 2210px; min-width: 990px; width: 990px; min-height: 710px; height: 710px; display: block; z-index: 353; }
+.zagol{
+    font-family: 'Rubik', sans-serif; font-size: 25px; font-weight: 700; color: black; text-align: center; padding-top: 70px; padding-bottom: 40px; background-color: #fff; line-height: 25px; letter-spacing: 5px; line-height: 35px;
+}
+.left{
+    width: 200px;
+    float: left;
+    padding: 15px;
+    color: white; 
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 600; 
+    line-height: 17px;
+    text-align: center;
+    background-color: #02be84;
+    height: 350px;
+    padding-top: 200px;
+    background-size: 170px;
+    background-image: url(ppp1.jpg);
+    background-repeat: no-repeat;
+    background-position: center 5%;
+}
+.right{
+    width: 200px;
+    float: right;
+    padding: 15px;
+    color: white; font-size: 13px;font-family: 'Open Sans', sans-serif; font-weight: 600; line-height: 17px;
+    text-align: center;
+    background-color: #43aa5b;
+    height: 350px;
+    padding-top: 200px;
+    background-size: 170px;
+    background-image: url(ppp3.jpg);
+    background-repeat: no-repeat;
+    background-position: center 5%;
+}
+.central{
+    padding: 5px;
+    margin: 0px 200px;
+    color: white; font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; 
+    line-height: 17px;
+    text-align: center;
+    background-color: #029076;
+    height: 350px;
+     padding-top: 200px;
+    background-size: 170px;
+     background-image: url(ppp2.jpg);
+    background-repeat: no-repeat;
+    background-position: center 5%;
+}
+.common{
+    position: relative;
+    top: 10px;
+}
+
+#wb_element_instance1 hr{
+    color: black; width: 400px; margin-top: 0px; height: 1px; background-color: black; margin-top: -40px;
+}
+#wb_element_instance1 img { width: 600px; height: 710px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance2{ 
+    left: 0px; 
+    top: 2920px; 
+    width: 600px; 
+    min-height: 120px; 
+    height: 120px; 
+    display: block; 
+    z-index: 357;
+    background-color: #005c59;
+    margin-top: 5px; 
+    text-align: left; 
+    color: #43aa5b; 
+    font-size: 20px; 
+    font-family: sans-serif;
+    padding: 20px 0px 20px 20px; 
+    box-sizing: border-box;
+}
+.question{
+    position: absolute;
+    right: 10px;
+    font-weight: 900;
+    font-size: 20px;
+    top: 18px;
+}
+#wb_element_instance2 img { width: 990px; height: 120px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance3 { left: 600px; top: 2960px; min-width: 320px; width: 320px; min-height: 50px; height: 50px; display: block; z-index: 362; }
+#wb_element_instance3 .wb_button { width: 320px; height: 50px; }
+#wb_element_instance3 .wb_button { font-family: Helvetica,Arial,sans-serif; font-size: 30px; text-align: center; border: 1px solid #cccccc; border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; color: #1c9116; font-style: normal; font-weight: bold; text-decoration: none; background: #f5f5f5 none repeat scroll left top; }
+#wb_element_instance3 .wb_button:hover { color: #333333; font-style: normal; font-weight: normal; text-decoration: none; background: #E6E6E6 none repeat scroll left top; }
+#wb_element_instance3 .wb_button:active { color: #333333; font-style: normal; font-weight: normal; text-decoration: none; background: #E6E6E6 none repeat scroll left top; }
+#wb_element_instance4 {font-family: 'Rubik', sans-serif; background-color: #edebee; font-size: 20px; left: 0px; top: 530px; width: 600px; min-height: 350px; height: 350px; display: block; z-index: 363; padding: 35px 0px 35px 60px; line-height: 29px; letter-spacing: 5px; box-sizing: border-box; font-weight: 700; color: black; position: relative;}
+.line{
+    width: 40px; height: 130%;
+    background: #00cb8b;
+    top: -40px;
+    right:74px;
+    position: absolute;
+    transform: rotate(30deg);
+    margin: 0px;
+    box-sizing: border-box;
+}
+.color{color: #02c778}
+#wb_element_instance4 img { width: 990px; height: 350px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance5 {background-color: #edebee; left: 0px; top: 870px; width: 600px; min-height: 1340px; height: 1340px; display: block; z-index: 364; position: relative;}
+#wb_element_instance5 h3{
+    font-family: 'Rubik', sans-serif; font-size: 25px; font-weight: 700; color: black; text-align: center; padding-top: 30px;
+}
+#wb_element_instance5 hr{
+    color: gray; width: 260px; margin-top: -7px; height: 2px; background-color: gray; 
+}
+.text{
+    color: darkslategray; font-size: 15px;font-family: 'Open Sans', sans-serif; font-weight: 700;
+}
+.tx1{
+    position: absolute;
+    width: 240px;
+    right: 10px;
+    top: 100px;
+}
+.tx2{
+     position: absolute;
+    left: 40px;
+    width: 180px;
+    top: 280px;
+}
+.tx3{
+     position: absolute;
+    right: 10px;
+    top: 455px;
+    width: 240px;
+}
+.tx4{
+     position: absolute;
+    left: 40px;
+    top: 570px;
+    width: 230px;
+}
+.tx5{
+     position: absolute;
+    right: 10px;
+    top: 775px;
+    width: 240px;
+}
+.tx6{
+     position: absolute;
+    left: 40px;
+    top: 900px;
+    width: 250px;
+}
+.border{
+    position: absolute;
+    width: 3px; height: 900px;
+    background: black;
+    top: 120px;
+    right: 50%;
+    position: absolute;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.number{
+    color:aliceblue;
+    font-family: 'Teko', sans-serif;
+    background: #00ac5d;
+    font-size: 30px;
+    margin-top: 50px;
+    width: 53px;
+    height: 53px;
+    text-align: center;
+    vertical-align: middle;
+    -moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    position: absolute;
+    right: -25px;
+    padding-top: 8px;
+}
+.n1{
+    top: -50px; 
+    
+}
+.n2{
+    top: 115.4px;
+}
+.n3{
+    top: 280.4px;
+}
+.n4{
+    top: 445.4px;
+}
+.n5{
+    top: 610.4px;
+}
+.n6{
+    bottom: 0px;
+}
+.green{
+    color:#00ac5d; 
+}
+#center{
+    padding-left: 45px;
+}
+.triangle{
+    border: 240px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-left: 495px solid white;
+    position: absolute;
+    bottom: 0px;
+}
+.triangle2{
+    border: 240px solid transparent;
+    border-bottom: 0px solid transparent;
+    border-right: 495px solid white;
+    border-left: 0px solid transparent;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;    
+}
+#wb_element_instance5 img { width: 990px; height: 1340px; display: block; position: static; left: 0px; top: 0px; }
+
+#wb_element_instance6{ 
+    left: 0px;
+    top: 3040px;
+    min-width: 600px;
+    width: 600px;
+    min-height: 2430px;
+    height: 2430px;
+    display: block;
+    z-index: 370;
+    margin-top: -10px;
+    background-color: #edebee;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 25px;
+    background-image: url(vvv.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 90% 2%;
+    position: relative;
+}
+.down1{
+    padding: 70px 0px 0px 40px;
+    margin-bottom: 90px;
+}
+#one{
+     font-family: 'Teko', sans-serif;
+    color: #02be84;
+    font-size: 90px;
+    position: absolute;
+    top: 80px;
+    left: 2px;
+    opacity: 0.7;
+}
+#two{
+    font-family: 'Teko', sans-serif;
+    color: #02be84;
+    font-size: 90px;
+    position: absolute;
+    top: 300px;
+    left: 2px;
+    opacity: 0.7;
+}
+#three{
+    font-family: 'Teko', sans-serif;
+    color: #02be84;
+    font-size: 90px;
+    position: absolute;
+    top: 900px;
+    left: 2px;
+    opacity: 0.7;
+}
+#four{
+    font-family: 'Teko', sans-serif;
+    color: #02be84;
+    font-size: 90px;
+    position: absolute;
+    top: 1480px;
+    left: 2px;
+    opacity: 0.7;
+}
+.down2{
+    padding: 0px 0px 0px 40px;
+    margin-top: 10px;
+}
+.down4{
+    margin-top: -90px;
+    padding: 10px 0px 0px 40px;
+    margin-bottom: 80px;
+}
+.down5{
+    padding: 10px 0px 0px 40px;
+}
+.down7{
+    padding: 10px 0px 0px 40px;
+}
+
+.down3{
+    height: 300px;
+    position: relative;
+    
+}
+#attention1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-image: url(ppp4.jpg);
+    background-position: center;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    -webkit-clip-path: circle(50% at 50% 50%);
+}
+
+#attention2{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    background-color: white;
+    background-image: url(ppp5.jpg);
+    background-position: center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+}
+#attention3{
+     width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 320px;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+    background-image: url(ppp6.jpg);
+    background-position: center;
+}
+#attention4{
+     width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    right: 40px;
+    background-color: white;
+    background-size: 160px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+    background-image: url(ppp7.jpg);
+    background-position: center;
+}
+.down6{
+    margin-top: 10px;
+    height: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+#attention5{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-image: url(ppp8.jpg);
+    background-position: center;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    -webkit-clip-path: circle(50% at 50% 50%);
+}
+
+#attention6{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    background-color: white;
+    background-image: url(ppp9.jpg);
+    background-position: center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+}
+#attention7{
+     width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 320px;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+    background-image: url(ppp10.jpg);
+    background-position: center;
+}
+#attention8{
+     width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    right: 40px;
+    background-color: white;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    -webkit-clip-path: circle(50% at 50% 50%);
+    background-image: url(ppp11.jpg);
+    background-position: center;
+}
+#attention9{
+    bottom: 70px;
+    right: 50px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-image: url(pic2.jpg);
+    -webkit-clip-path: circle(50% at 50% 50%);
+    background-size: 300px;
+}
+.down7{
+    margin-bottom: 70px;
+}
+.down8{
+    margin-top: 0px;
+    height: 200px;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    padding: 40px 0px 0px 40px;
+}
+#wb_element_instance6 img { width: 990px; height: 2430px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance7 {left: 0px; top: 0px; width: 600px; min-height: 140px; height: 140px; display: block; z-index: 371; }
+#wb_element_instance7 img { width: 600px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance8 { left: 0px; top: 5490px; display: block; z-index: 9000; }
+#wb_element_instance9 { left: 0px; top: 20px; display: block; z-index: 9999; }
+
+@media (min-width: 600px) {
+	#wb_header { height: 100px; }
+	#wb_main { height: 5470px; }
+	#wb_footer { height: 100px; }
+	body, .wb_sbg { min-width: 992px; min-height: 5670px; }
+	.root { width: 600px; height: 5670px; overflow: visible; }
+	#wb_element_instance0 { left: 680px; top: 110px; min-width: 308px; width: 308px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance1 { left: 0px; top: 2210px; min-width: 990px; width: 990px; min-height: 710px; height: 710px; display: block; overflow: hidden; }
+	#wb_element_instance1 img { width: 1000px; height: 720px; display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+	#wb_element_instance2 { left: 0px; top: 2920px; min-width: 990px; width: 990px; min-height: 120px; height: 120px; display: block; }
+	#wb_element_instance2 img { width: 990px; height: 120px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance3 { left: 600px; top: 2960px; min-width: 320px; width: 320px; min-height: 50px; height: 50px; display: block; }
+	#wb_element_instance3 .wb_button { width: 320px; height: 50px; }
+	#wb_element_instance4 { left: 0px; top: 530px; min-width: 990px; width: 600px; min-height: 350px; height: 350px; display: block; overflow: hidden; }
+	#wb_element_instance4 img { width: 990px; height: 340px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance5 { left: 0px; top: 870px; min-width: 990px; width: 990px; min-height: 1340px; height: 1340px; display: block; }
+	#wb_element_instance5 img { width: 990px; height: 1340px; display: block; position: static; left: 0px; top: 0px;}
+	#wb_element_instance6 { left: 0px; top: 3040px; min-width: 990px; width: 990px; min-height: 2430px; height: 2430px; display: block; overflow: hidden; }
+	#wb_element_instance6 img { width: 990px; height: 2420px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance7 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 530px; height: 530px; display: block; overflow: hidden; }
+	#wb_element_instance7 img { width: 990px; height: 542px; display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+}
+
+@media (min-width: 992px) {
+	#wb_header { height: 1500px; }
+	#wb_main { height: 5470px; }
+	#wb_footer { height: 100px; }
+	body, .wb_sbg { min-width: 992px; min-height: 5670px; }
+	.root { width: 992px; height: 5670px; overflow: visible; }
+	#wb_element_instance0 { left: 680px; top: 110px; min-width: 308px; width: 308px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance1 { left: 0px; top: 2210px; min-width: 990px; width: 990px; min-height: 710px; height: 710px; display: block; overflow: hidden; }
+	#wb_element_instance1 img { width: 1000px; height: 720px; display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+	#wb_element_instance2 { left: 0px; top: 2920px; min-width: 990px; width: 990px; min-height: 120px; height: 120px; display: block; }
+	#wb_element_instance2 img { width: 990px; height: 120px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance3 { left: 600px; top: 2960px; min-width: 320px; width: 320px; min-height: 50px; height: 50px; display: block; }
+	#wb_element_instance3 .wb_button { width: 320px; height: 50px; }
+	#wb_element_instance4 { left: 0px; top: 530px; min-width: 990px; width: 990px; min-height: 350px; height: 350px; display: block; overflow: hidden; }
+	#wb_element_instance4 img { width: 990px; height: 340px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance5 { left: 0px; top: 870px; min-width: 990px; width: 990px; min-height: 1340px; height: 1340px; display: block; }
+	#wb_element_instance5 img { width: 990px; height: 1340px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance6 { left: 0px; top: 3040px; min-width: 990px; width: 990px; min-height: 2430px; height: 2430px; display: block; overflow: hidden; }
+	#wb_element_instance6 img { width: 990px; height: 2420px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance7 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 530px; height: 530px; display: block; overflow: hidden; }
+	#wb_element_instance7 img { width: 990px; height: 542px; display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+}
+
+@media (min-width: 600px) {
+	#wb_header { height: 100px; }
+	#wb_main { height: 4090px; width: 600px;}
+	#wb_footer { height: 100px; }
+	body, .wb_sbg { min-width: 992px; min-height: 4400px; }
+	.root { width: 600px; height: 4190px; overflow: visible; }
+	#wb_element_instance0 { left: 680px; top: 110px; min-width: 308px; width: 308px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance1 { left: 0px; top: 1800px; min-width: 600px; width: 600px; min-height: 710px; height: 710px; display: block; overflow: hidden; }
+	#wb_element_instance1 img { width: 1000px; height: 720px; display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+	#wb_element_instance2 { left: 0px; top: 2330px; min-width: 600px; width: 600px; min-height: 70px; height: 70px; display: block; }
+	#wb_element_instance2 img { width: 990px; height: 120px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance3 { left: 600px; top: 2960px; min-width: 320px; width: 320px; min-height: 50px; height: 50px; display: block; }
+	#wb_element_instance3 .wb_button { width: 320px; height: 50px; }
+	#wb_element_instance4 {left: 0px; top: 310px; min-width: 600px; width: 600px; min-height: 290px; height: 290px; display: block; overflow: hidden; }
+	#wb_element_instance4 img { width: 990px; height: 340px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance5 { left: 0px; top: 580px; min-width: 600px; width: 600px; min-height: 1040px; height: 1290px; display: block; }
+	#wb_element_instance5 img { width: 990px; height: 1340px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance6 { left: 0px; top: 2410px; min-width: 600px; width: 600px; min-height: 1700px; height: 1700px; display: block; overflow: hidden; }
+	#wb_element_instance6 img { width: 990px; height: 2420px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance7 { left: 0px; top: 0px; min-width: 600px; width: 600px; min-height: 340px; height: 340px; display: block; overflow: hidden; }
+	#wb_element_instance7 img { width: 600px; height: 340px;  display: block; position: relative; left: 0px; top: -10px; max-width: inherit; }
+}
